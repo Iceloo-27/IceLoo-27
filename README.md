@@ -6,8 +6,8 @@
 
 *Building thoughtful digital experiences, from interface to infrastructure.*
 
-[![Telegram](https://img.shields.io/badge/Telegram-icexinnie-24292f?style=flat-square&logo=telegram&logoColor=white)](https://t.me/icexinnie)
-[![Email](https://img.shields.io/badge/Email-Let's%20connect-24292f?style=flat-square&logo=gmail&logoColor=white)](mailto:aisulu.abdrakhmanova@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-icexinnie-18181b?style=flat-square&logo=telegram&logoColor=white)](https://t.me/icexinnie)
+[![Email](https://img.shields.io/badge/Email-Let's%20connect-18181b?style=flat-square&logo=gmail&logoColor=white)](mailto:aisulu.abdrakhmanova@gmail.com)
 
 </div>
 
@@ -25,26 +25,21 @@ Alongside programming, I work with **web design and social media marketing (SMM)
 
 ### Tech stack
 
+<div align="center">
+
 **Frontend**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-24292f?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-24292f?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-24292f?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-24292f?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-24292f?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-24292f?style=flat-square&logo=css&logoColor=white)
+[![Frontend](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css&theme=dark)](https://skillicons.dev)
 
 **Backend & databases**
 
-![Node.js](https://img.shields.io/badge/Node.js-24292f?style=flat-square&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-24292f?style=flat-square&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292f?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-24292f?style=flat-square&logo=mysql&logoColor=white)
+[![Backend](https://skillicons.dev/icons?i=nodejs,java,postgres,mysql&theme=dark)](https://skillicons.dev)
 
 **Tools & design**
 
-![Git](https://img.shields.io/badge/Git-24292f?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-24292f?style=flat-square&logo=figma&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=git,figma&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ### GitHub activity
 
