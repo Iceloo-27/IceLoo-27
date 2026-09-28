@@ -60,6 +60,4 @@ Alongside programming, I work with **web design and social media marketing (SMM)
 
 [Telegram](https://t.me/icexinnie) · [Email](mailto:aisulu.abdrakhmanova@gmail.com)
 
-<sub>Designed with simplicity in mind.</sub>
-
 </div>
