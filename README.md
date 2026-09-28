@@ -45,11 +45,10 @@ Alongside programming, I work with **web design and social media marketing (SMM)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Iceloo-27&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=9da7b3&icon_color=9da7b3" alt="Aisulu's GitHub stats" />
-
-<img src="https://streak-stats.demolab.com?user=Iceloo-27&theme=github-dark-blue&hide_border=true&background=0D1117" alt="Aisulu's GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Iceloo-27&bg_color=0d1117&color=9da7b3&line=e6edf3&point=e6edf3&area=true&hide_border=true" alt="Aisulu's contribution activity graph" />
+<img
+  src="https://streak-stats.demolab.com/?user=Iceloo-27&theme=github-dark-blue&hide_border=true&background=0D1117"
+  alt="Aisulu's GitHub streak"
+/>
 
 </div>
 
