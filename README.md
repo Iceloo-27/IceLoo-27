@@ -4,8 +4,6 @@
 
 **Fullstack Developer · Web Designer · SMM Enthusiast**
 
-*Building thoughtful digital experiences, from interface to infrastructure.*
-
 [![Telegram](https://img.shields.io/badge/Telegram-icexinnie-18181b?style=flat-square&logo=telegram&logoColor=white)](https://t.me/icexinnie)
 [![Email](https://img.shields.io/badge/Email-Let's%20connect-18181b?style=flat-square&logo=gmail&logoColor=white)](mailto:aisulu.abdrakhmanova@gmail.com)
 
@@ -17,7 +15,7 @@
 
 I'm Aisulu, a fullstack developer with four years of study in **Computer Science and Computer Engineering at Moscow Aviation Institute (MAI)**.
 
-Alongside programming, I work with **web design and social media marketing (SMM)**. I enjoy bringing together clean interfaces, functional applications, and a thoughtful approach to how digital products communicate.
+Alongside programming, I work with **web design and social media marketing (SMM)**.
 
 - 💻 Fullstack development, from frontend to backend
 - 🎨 Web design and visual storytelling
